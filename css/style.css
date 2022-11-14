@@ -1,0 +1,41 @@
+.button-header{
+    position: absolute;
+    top:15px;
+    left: 999px;
+    border-radius: 10px;
+    width: 170px;
+    align-items: end;
+    height: 50px;
+    border:none;
+    background-color: #0c63e4;
+}
+.button-header-icon{
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    left: 1px;
+
+    top: 10px;
+    right: 10px;
+}
+.table-2{
+    height:1000px;
+    width: 1200px;
+    margin: auto;
+    overflow: auto;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100%;
+}
+.table-1{
+    position: sticky;
+    top: 0;
+    background: white;
+    border: 1px solid black;
+}
+thead ,tr,th {
+    border: 1px solid black;
+}
